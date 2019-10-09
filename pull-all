@@ -1,0 +1,5 @@
+git subtree pull -P scijava-parallel scijava-parallel preRelease
+git subtree pull -P scijava-parallel-fst scijava-parallel-fst preRelease
+git subtree pull -P scijava-parallel-imagej-server scijava-parallel-imagej-server preRelease
+git subtree pull -P scijava-parallel-examples scijava-parallel-examples preRelease
+git subtree pull -P utilization-monitor utilization-monitor preRelease

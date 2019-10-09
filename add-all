@@ -1,0 +1,9 @@
+function add-subtree () { 
+	git subtree add --prefix $1 $1 master
+}
+add-subtree scijava-parallel
+add-subtree scijava-parallel-fst
+add-subtree scijava-parallel-imagej-server
+add-subtree scijava-parallel-examples
+add-subtree utilization-monitor
+
