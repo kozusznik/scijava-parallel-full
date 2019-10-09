@@ -1,4 +1,5 @@
 function add-subtree () { 
+	git remote add $1 https://github.com/fiji-hpc/$1.git
 	git subtree add --prefix $1 $1 master
 }
 add-subtree scijava-parallel
