@@ -51,22 +51,22 @@
 		<dependency>
 			<groupId>org.scijava</groupId>
 			<artifactId>scijava-parallel-fst</artifactId>
-			<version>4.0.0-RC-1</version>
+			<version>1.0.0</version>
 		</dependency>
 		<dependency>
 			<groupId>org.scijava</groupId>
 			<artifactId>scijava-parallel-imagej-server</artifactId>
-			<version>0.0.1-RC-1</version>
+			<version>0.0.2</version>
 		</dependency>
 		<dependency>
 			<groupId>it4innovations</groupId>
 			<artifactId>utilization-monitor</artifactId>
-			<version>0.2.0-RC-1</version>
+			<version>0.2.1</version>
 		</dependency>
 		<dependency>
 			<groupId>org.scijava</groupId>
 			<artifactId>runners-logging-ui</artifactId>
-			<version>0.0.1-RC-1</version>
+			<version>0.0.2</version>
 		</dependency>
 	</dependencies>
 
